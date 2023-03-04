@@ -6,7 +6,7 @@ import Button from '../button/button.component';
 import {
   createAuthUserWithEmailAndPassword,
   createUserDocumentFromAuth,
-} from '../../utils/firebase/firebase.utils';
+} from '../../Utils/firebase/firebase.utils';
 
 import { SignUpContainer } from './sign-up-form.styles';
 
